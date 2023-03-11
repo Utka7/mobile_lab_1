@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:visible="true">
+
+    <item
+        android:id="@+id/znak"
+        android:title="Главная"
+        android:icon="@drawable/yandex_znak"/>
+    <item
+        android:id="@+id/video"
+        android:title="Ролики"
+        android:icon="@drawable/baseline_play"/>
+    <item
+        android:id="@+id/interesting"
+        android:title="Интересное"
+        android:icon="@drawable/interesting"/>
+</menu>
